@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "imac-24-silver-cto-hero-202104.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "imac-24-yellow-cto-hero-202104.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pexels-lee-campbell-115655.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
